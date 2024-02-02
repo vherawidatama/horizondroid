@@ -11,3 +11,5 @@
 ## <p align="center"> Asus <p/>
 - Zenfone Max M2 (X01AD)
 
+## <p align="center"> Realme <p/>
+- Realme GT Neo 3T (spartan)
