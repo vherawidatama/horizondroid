@@ -13,3 +13,8 @@
 
 ## <p align="center"> Realme <p/>
 - Realme GT Neo 3T (spartan)
+
+## <p align="center"> Motorola <p/>
+- Motorola G32 (devon)
+- Motorola G42 (hawao)
+- Motorola G52 (rhode)
